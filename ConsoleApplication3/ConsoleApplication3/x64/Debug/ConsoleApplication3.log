@@ -1,0 +1,5 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\Пользователь\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(24,21): error C2661: MyCircle::MyCircle: нет перегруженной функции, принимающей 3 аргументов
+C:\Users\Пользователь\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(24,21): message : при попытке сопоставить список аргументов "(int, int, int)"
+  MyCircle.cpp
+  Создание кода...
