@@ -21,8 +21,10 @@ int main()
     Point p1(1, 2);
     cout << "Point p1: " << p1 << std::endl; 
 
-    MyCircle circle1(7, 4, 2);
-    cout << circle1 << std::endl; // Вывод: {{7, 4};{2}}
+    Point p2(2, 3);
+    cin >> p2;
+
+
 
 
 
